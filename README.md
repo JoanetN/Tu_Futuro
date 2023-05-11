@@ -1,3 +1,3 @@
-# Tu_Futuro
+# TuFuturo2
 Created with CodeSandbox
-https://JoanetN.github.io/Tu_Futuro/public/
+https://JoanetN.github.io/TuFuturo2/public/
